@@ -1,7 +1,6 @@
 **👋 Hello, I’m Mary**
 
-I like to build things that *make life a little better for everyone*. My work focuses on practical solutions communities can depend on. Much of this is guided by a framework I call **TALS**:  
-**T**hin computing · **A**daptability · **L**ow-cost · **S**calability
+I like to build things that *make life a little better for everyone*. My work focuses on practical solutions communities can depend on. Much of this is guided by a framework I call **TALS**:  **T**hin computing · **A**daptability · **L**ow-cost · **S**calability
 
 **🔧 My Toolkit**
 
