@@ -1,6 +1,6 @@
 **👋 Hello, I’m Mary**
 
-I like to build things that *make life a little better for everyone*. This work focuses on practical solutions communities can depend on. Much of this is guided by a framework from my own life's experiences called **TALS**:  **T**hin computing · **A**daptability · **L**ow-cost · **S**calability.
+I believe the most powerful technology isn't the most complex—it's the most accessible. My work focuses on practical solutions communities can depend on. Much of this is guided by a framework from my own life's experiences called **TALS**:  **T**hin computing · **A**daptability · **L**ow-cost · **S**calability.
 
 **🔧 My Toolkit**
 
